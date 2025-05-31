@@ -1,29 +1,89 @@
-<h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
-<h3 align="center">I am passionate for coding.</h3>
-<img align="right"alt="coding"width="400"src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityak-hub&label=Profile%20views&color=0e75b6&style=flat" alt="adityak-hub" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **c programming**
-
-- 📫 How to reach me **kaditya41057@gmail.com**
-
-- ⚡ Fun fact **I am funny.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kaditya01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaditya01" height="30" width="40" /></a>
-<a href="https://instagram.com/_.x0x._adii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.x0x._adii" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@tech1aditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@tech1aditya" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=4000&pause=700&color=00ffd5&center=true&vCenter=true&width=720&lines=Hi,+I'm+Aditya+Kumar!;B.Tech+CS+Student+%7C+Aspiring+Software+Engineer;Passionate+About+DSA+%26+Open+Source" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityak-hub&show_icons=true&locale=en&layout=compact" alt="adityak-hub" /></p>
+## 👋 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityak-hub&show_icons=true&locale=en" alt="adityak-hub" /></p>
+Hello! I’m **Aditya Kumar**, a motivated B.Tech Computer Science student driven by curiosity and impact.  
+I’m focused on building expertise in:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityak-hub&" alt="adityak-hub" /></p>
+<div align="center">
+
+| 🔥 **Data Structures & Algorithms** | 🏗️ **System Design** | 🌐 **Full-stack Development** |
+|:----------------------------------:|:-------------------:|:----------------------------:|
+| Sharpening problem-solving skills  | Crafting scalable, efficient architectures | Building MERN stack apps with real-world impact |
+
+</div>
+
+🎯 **Goal:** To become a Software Engineer at **Google** or **Microsoft**, solving complex challenges through elegant, efficient code.
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00ffd5&center=true&vCenter=true&width=500&lines=Skills+%26+Technologies" alt="Skills Typing" />
+</p>
+
+<p align="center" style="margin-bottom: 1em;">
+  <kbd style="padding:8px 14px; border-radius:8px; background:#282c34; color:#61dafb; font-weight:bold; box-shadow: 0 0 8px #61dafb;">Java</kbd> &nbsp;
+  <kbd style="padding:8px 14px; border-radius:8px; background:#282c34; color:#f0db4f; font-weight:bold; box-shadow: 0 0 8px #f0db4f;">JavaScript</kbd> &nbsp;
+  <kbd style="padding:8px 14px; border-radius:8px; background:#282c34; color:#61dafb; font-weight:bold; box-shadow: 0 0 8px #61dafb;">React.js</kbd> &nbsp;
+  <kbd style="padding:8px 14px; border-radius:8px; background:#282c34; color:#3c873a; font-weight:bold; box-shadow: 0 0 8px #3c873a;">Node.js</kbd> &nbsp;
+  <kbd style="padding:8px 14px; border-radius:8px; background:#282c34; color:#47a248; font-weight:bold; box-shadow: 0 0 8px #47a248;">MongoDB</kbd>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-%230072B1.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+---
+
+## 📂 Selected Projects
+
+### 🚀 [Daily-DSA](https://github.com/Aditya-kumar0545/Daily-DSA)  
+*A curated collection of daily algorithm challenges to sharpen my coding efficiency.*
+
+### 🛠️ [Open Source Contributions](https://github.com/Aditya-kumar0545/Open-Source-Contributions)  
+*Bug fixes and feature enhancements in popular community-driven projects.*
+
+### 🏗️ [System Design Repository](https://github.com/Aditya-kumar0545/System-Design)  
+*Comprehensive docs and practical examples of scalable system architectures.*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-kumar0545&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="460" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-kumar0545&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="320" />
+</p>
+
+---
+
+## 📫 Let's Connect!
+
+<p align="center" style="margin-top:1em;">
+  <a href="mailto:adityakumar@example.com" target="_blank" rel="noopener noreferrer" title="Email Me">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a> &nbsp;
+  <a href="https://linkedin.com/in/aditya-kumar-profile" target="_blank" rel="noopener noreferrer" title="LinkedIn Profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a> &nbsp;
+  <a href="https://github.com/Aditya-kumar0545" target="_blank" rel="noopener noreferrer" title="GitHub Profile">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<p align="center" style="margin-top: 30px;">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="160" alt="Let's code GIF" />
+</p>
