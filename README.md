@@ -56,17 +56,21 @@ I’m focused on building expertise in:
 
 ---
 
-## 📊 GitHub Stats
+---
+
+## 🧠 Currently Learning
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-kumar0545&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="460" />
+  <kbd style="padding:8px 14px; border-radius:8px; background:#282c34; color:#ff79c6; font-weight:bold; box-shadow: 0 0 8px #ff79c6;">TypeScript</kbd> &nbsp;
+  <kbd style="padding:8px 14px; border-radius:8px; background:#282c34; color:#61dafb; font-weight:bold; box-shadow: 0 0 8px #61dafb;">Next.js</kbd> &nbsp;
+  <kbd style="padding:8px 14px; border-radius:8px; background:#282c34; color:#f34b7d; font-weight:bold; box-shadow: 0 0 8px #f34b7d;">GraphQL</kbd> &nbsp;
+  <kbd style="padding:8px 14px; border-radius:8px; background:#282c34; color:#ffcc00; font-weight:bold; box-shadow: 0 0 8px #ffcc00;">AWS</kbd>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-kumar0545&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="320" />
-</p>
+<p align="center">🌱 Continuously expanding my toolkit to stay ahead in the evolving tech landscape!</p>
 
 ---
+
 
 ## 📫 Let's Connect!
 
