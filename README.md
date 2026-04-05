@@ -20,6 +20,15 @@ I’m focused on building expertise in:
 🎯 **Goal:** To become a Software Engineer at **Google** or **Microsoft**, solving complex challenges through elegant, efficient code.
 
 ---
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00ffd5&center=true&vCenter=true&width=500&lines=Skills+%26+Technologies" alt="Skills Typing" />
@@ -73,19 +82,6 @@ I’m focused on building expertise in:
 
 
 
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-
-
-
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
